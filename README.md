@@ -117,7 +117,7 @@ Saída: `2`
 ## Apresentação 
 
 <div align="center">
-<a href="https://youtu.be/ZyilJqMZE60"><img src="https://i.imgur.com/nNBEJk2.png" width="50%"></a>
+<a href="https://youtu.be/ZyilJqMZE60"><img src="./imagens/print.png" width="50%"></a>
 
 <font size="3"><p style="text-align: center">Autores: [Thales Germano Vargas Lima](https://github.com/thalesgvl) & [Vitor Carvalho Pereira](https://github.com/vcpVitor)</p></font>
 </div>
